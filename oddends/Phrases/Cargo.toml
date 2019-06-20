@@ -1,0 +1,5 @@
+[package]
+name = "oddends"
+version = "0.1.0"
+authors = ["Dennis Sang <sangdennis9@gmail.com>"]
+edition = "2018"
